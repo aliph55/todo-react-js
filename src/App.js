@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { GiHornedHelm } from "react-icons/gi";
 import { AiOutlinePlus, AiOutlineClose } from "react-icons/ai";
 
 function App() {
